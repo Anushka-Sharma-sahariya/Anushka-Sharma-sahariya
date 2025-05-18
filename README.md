@@ -17,12 +17,10 @@
 ### 🚀 Featured Projects
 | Repo | What it does |
 |------|--------------|
-| **[Luminous](https://github.com/Anushka-Sharma-sahariya/Luminous)** | Experimental LLM playground—prompt tools, fine-tuning scripts, evaluation dashboards |
+| **[Luminous](https://github.com/Anushka-Sharma-sahariya/Luminous)** | Smart scheduler to cut electric bills with TOU/TOD tariffs; ML-powered energy analytics |
 | **[Pinocchio’s Nose](https://github.com/Anushka-Sharma-sahariya/Pinocchio-s-Nose)** | Deep-fake detector using **ResNet-50** + FFT features (TensorFlow) |
 | **[KrishiAI](https://github.com/Anushka-Sharma-sahariya/KrishiAI)** | Voice-first assistant for farmers—crop disease diagnosis & price forecasts |
-| **[Echosync](https://github.com/Anushka-Sharma-sahariya/Echosync)** | Smart scheduler to cut electric bills with TOU/TOD tariffs; ML-powered energy analytics |
 | **[Traffic-Flow Forecasting](#)** | Random Forest + LSTM model (MAE/RMSE optimized) for urban traffic data |
-| **[Shoes-Website](https://github.com/Anushka-Sharma-sahariya/Shoes-Websit)** | Responsive e-commerce demo (Flask + Stripe) |
 
 <sub>*More repos → check the pinned section!*</sub>
 
