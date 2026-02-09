@@ -7,7 +7,7 @@
 ---
 
 ### 💡 Quick Facts
-- 🎓 **B.Tech CS ’26 @ Bennett University** &nbsp;•&nbsp; SGPA **8.9/10**
+- 🎓 **B.Tech CS ’26 @ Bennett University** &nbsp;•&nbsp; SGPA **9.0/10**
 - 🛠️ **Tech:** Python, C++, React, SQL, TensorFlow, PyTorch, AWS/GCP
 - 🔍 **Interests:** NLP&nbsp;•&nbsp;Reinforcement Learning&nbsp;• Product Analytics
 - 🗣️ **Soft skills:** Leadership, Communication, Attention-to-detail
