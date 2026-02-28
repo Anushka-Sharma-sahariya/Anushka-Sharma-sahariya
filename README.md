@@ -13,7 +13,7 @@
 ---
 
 <details>
-<summary><b>🧠 What I Actually Do</b></summary>
+<summary><b> What I Actually Do</b></summary>
 <br>
 
 - Write structured PRDs from messy, ambiguous inputs  
@@ -35,7 +35,7 @@ I understand what happens under the hood — and why it matters.
 ---
 
 <details>
-<summary><b>🏢 Enterprise Experience – Infineon</b></summary>
+<summary><b>Enterprise Experience – Infineon</b></summary>
 <br>
 
 - Working inside large, stakeholder-heavy environments  
@@ -51,7 +51,7 @@ Learning how real products operate at scale.
 ---
 
 <details>
-<summary><b>⚡ Startup Exposure</b></summary>
+<summary><b>Startup Exposure</b></summary>
 <br>
 
 Worked in high-ambiguity environments where:
@@ -67,7 +67,7 @@ This shaped my bias toward execution + clarity.
 ---
 
 <details>
-<summary><b>🚀 What You’ll Find in My Repositories</b></summary>
+<summary><b>What You’ll Find in My Repositories</b></summary>
 <br>
 
 - AI-driven prototypes  
@@ -83,7 +83,7 @@ I’m especially interested in:
 ---
 
 <details>
-<summary><b>🎯 What I’m Optimizing For</b></summary>
+<summary><b> What I’m Optimizing For</b></summary>
 <br>
 
 - FAANG-level product rigor  
