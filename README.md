@@ -1,54 +1,109 @@
-<h1 align="center">Hey, I’m Anushka Sharma! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
+<h1 align="center">Hi, I'm Anushka 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&width=460&lines=Aspiring+AI+Engineer+%26+Product+Thinker;Building+data-driven+solutions;Always+learning%2C+always+iterating" />
+  <b>Product Builder</b> • AI x Enterprise Systems • B.Tech ’26  
+  <br>
+  Product Intern @ <b>Infineon Technologies</b>
+</p>
+
+<p align="center">
+  I don’t build features. I design systems that make sense.
 </p>
 
 ---
 
-### 💡 Quick Facts
-- 🎓 **B.Tech CS ’26 @ Bennett University** &nbsp;•&nbsp; SGPA **9.0/10**
-- 🛠️ **Tech:** Python, C++, React, SQL, TensorFlow, PyTorch, AWS/GCP
-- 🔍 **Interests:** NLP&nbsp;•&nbsp;Reinforcement Learning&nbsp;• Product Analytics
-- 🗣️ **Soft skills:** Leadership, Communication, Attention-to-detail
-- 📫 **Let’s connect:** anushkasahariya2004@gmail.com • [LinkedIn](https://linkedin.com/in/anushka-sharma-0a4847196)
+<details>
+<summary><b>🧠 What I Actually Do</b></summary>
+<br>
 
----
-### 🚀 Featured Projects
-| Repo | What it does |
-|------|--------------|
-| **[Luminous](https://github.com/Anushka-Sharma-sahariya/Luminous)** | Smart scheduler to cut electric bills with TOU/TOD tariffs; ML-powered energy analytics |
-| **[Pinocchio’s Nose](https://github.com/Anushka-Sharma-sahariya/Pinocchio-s-Nose)** | Deep-fake detector using **ResNet-50** + FFT features (TensorFlow) |
-| **[KrishiAI](https://github.com/Anushka-Sharma-sahariya/KrishiAI)** | Voice-first assistant for farmers—crop disease diagnosis & price forecasts |
-| **[Traffic-Flow Forecasting](#)** | Random Forest + LSTM model (MAE/RMSE optimized) for urban traffic data |
+- Write structured PRDs from messy, ambiguous inputs  
+- Identify AI use-cases inside enterprise workflows  
+- Translate stakeholder noise into product clarity  
+- Think in systems, not screens  
+- Bridge engineering depth with business reasoning  
 
-<sub>*More repos → check the pinned section!*</sub>
+Background in:
+- Deep Learning  
+- NLP  
+- Reinforcement Learning  
+- Full-stack systems  
 
+I understand what happens under the hood — and why it matters.
 
----
-
-### 🏢 Experience Snapshot
-- **Product Management Intern @ Skillarena (Jun ’24 – Sep ’24)**  
-  Conducted user research, authored PRDs, ran A/B tests, and prioritized features with data-driven road-mapping.
-- **Software Engineering Virtual Experience @ J.P. Morgan (May ’23 – Jun ’23)**  
-  Built a real-time trading-data dashboard using Perspective to help traders visualize market moves.
+</details>
 
 ---
 
-### 📊 GitHub Stats
+<details>
+<summary><b>🏢 Enterprise Experience – Infineon</b></summary>
+<br>
+
+- Working inside large, stakeholder-heavy environments  
+- Participating in cross-functional discussions  
+- Driving clarity in ambiguous requirements  
+- Contributing to workflow-level improvements  
+- Thinking beyond features → toward system architecture  
+
+Learning how real products operate at scale.
+
+</details>
+
+---
+
+<details>
+<summary><b>⚡ Startup Exposure</b></summary>
+<br>
+
+Worked in high-ambiguity environments where:
+
+- Speed > process  
+- Ownership wasn’t optional  
+- Decisions had immediate consequences  
+
+This shaped my bias toward execution + clarity.
+
+</details>
+
+---
+
+<details>
+<summary><b>🚀 What You’ll Find in My Repositories</b></summary>
+<br>
+
+- AI-driven prototypes  
+- ML-backed system experiments  
+- Workflow automation explorations  
+- Product-thinking-in-code  
+
+I’m especially interested in:
+<b>AI copilots for enterprise systems.</b>
+
+</details>
+
+---
+
+<details>
+<summary><b>🎯 What I’m Optimizing For</b></summary>
+<br>
+
+- FAANG-level product rigor  
+- Systems-level thinking  
+- Strategic clarity  
+- High-agency problem solving  
+
+</details>
+
+---
+
+<h3 align="center">📫 Connect With Me</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Sharma-sahariya&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Sharma-sahariya&theme=tokyonight" height="170"/>
+  <a href="https://www.linkedin.com/in/anushka-sharma-0a4847196">LinkedIn</a> • 
+  <a href="mailto:anushkasahariya2004@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🏆 Achievements & Leadership
-- **Top-10 National Finalist** – Luminous Techno-X (45 k+ teams)  
-- **Vice-Chairperson** – GeeksforGeeks, Bennett University (’23-’24)  
-- **Ministry of PR & Outreach** – Student Cabinet (’22-’23)  
-- Award-winning **debater** (4× champion) & freelance **artist** 🖌️
-
----
-
-> *“The beautiful thing about learning is that no one can take it away from you.”* — B.B. King
+<p align="center">
+  <i>Product is clarity under constraints.</i>
+</p>
